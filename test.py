@@ -22,4 +22,3 @@ print(buah)
 
 buah.update({"nama":"Sirsak", "Manis":False})
 print(buah)
-
