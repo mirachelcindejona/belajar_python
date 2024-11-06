@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Page-1" id="flowchart-crossing-river">
+    <mxGraphModel dx="438" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-31" target="4x69xFi8F7D0hF5JMGz2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-31" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;Mulai&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="332.66" y="-40" width="166.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-32" target="4x69xFi8F7D0hF5JMGz2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-32" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S1 dan I1 naik perahu&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="120" width="204" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-33" target="4x69xFi8F7D0hF5JMGz2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-33" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;I1 turun di kanan&lt;/span&gt;&lt;br style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S1 kembali ke kiri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="312" y="280" width="208" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-39" target="4x69xFi8F7D0hF5JMGz2-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-39" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S2 dan I2 naik perahu&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="312" y="440" width="208" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-46" target="4x69xFi8F7D0hF5JMGz2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-46" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;I2 turun di kanan&lt;/span&gt;&lt;br style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S2 kembali ke kiri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="600" width="204" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-47" target="4x69xFi8F7D0hF5JMGz2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-47" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S3 dan I3 naik perahu&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="760" width="208" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-48" target="4x69xFi8F7D0hF5JMGz2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-48" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;I3 turun di kanan&lt;/span&gt;&lt;br style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S3 kembali ke kiri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="920" width="208" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-49" target="4x69xFi8F7D0hF5JMGz2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-49" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S1 dan S2 naik perahu dan&lt;/span&gt;&lt;br style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;turun di kanan&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="1080" width="204" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-50" target="4x69xFi8F7D0hF5JMGz2-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-50" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;I3 kembali ke kiri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="1240" width="208" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4x69xFi8F7D0hF5JMGz2-51" target="4x69xFi8F7D0hF5JMGz2-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-51" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;S3 dan I3 menyeberang&lt;/span&gt;&lt;br style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;ke kanan&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="1400" width="208" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4x69xFi8F7D0hF5JMGz2-53" value="&lt;span style=&quot;font-family: sans-serif; font-size: medium; text-align: start;&quot;&gt;Selesai&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1560" width="166.67" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
